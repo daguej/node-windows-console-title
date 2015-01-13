@@ -1,0 +1,14 @@
+{
+  "name": "windows-console-title",
+  "version": "1.0.1",
+  "description": "Sets the console title on Windows.  Use with console-title.",
+  "main": "build/Release/rename.node",
+  "author": "daguej",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daguej/node-windows-console-title.git"
+  },
+  "license": "MIT",
+  "gypfile": true,
+  "os": ["win32"]
+}
